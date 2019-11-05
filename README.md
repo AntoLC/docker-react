@@ -2,5 +2,5 @@
 - React
 - GitHub
 - Travis
-- Dockhub
+- Dockerhub
 - AWS Beanstalk
